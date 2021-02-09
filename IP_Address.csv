@@ -1,0 +1,4 @@
+﻿host,command
+192.168.1.254,show inventory
+10.0.10.20,show vlan brief
+10.0.10.30,show ip interface brief
